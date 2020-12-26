@@ -1,4 +1,0 @@
-Bandit is a Wargame for Overthewire, and can be found here: 
-[https://overthewire.org/wargames/bandit/]
-
-Our goal is to use different Shell tools (ls, cat, ssh, etc) to gain passwords to different user accounts, each with varying levels of difficulty. 
